@@ -1,7 +1,10 @@
 # Word-Frequency-and-Book-Popularity
 Advanced Authentic Research project for Gunn High School 2017. Correlation between independently occurring words and popularity of books.
 
-# Analytics and Charts- 
+# Research Methodology
+Using supervised machine learning techniques by tagging the words (Classification) from a set of popular fiction books on different topics. 
+
+### Analytics and Charts 
 https://sites.google.com/view/aar-akanshagupta/home
 
 # Java Code
