@@ -2,7 +2,7 @@
 Advanced Authentic Research project for Gunn High School 2017. Correlation between independently occurring words and popularity of books.
 
 ## Research Methodology
-Using supervised machine learning techniques by tagging the words (Classification) from a set of popular fiction books on different topics. 
+Basic textmining including loading/cleaning text data and creating relational tables for parsed words. Using data stores on the web such as 'NRC emotions' data, and 'Category Variation' data for tagging the words (classification by Emotion Words, and Word Variations) from a set of popular fiction books on different topics. 
 
 ### Analytics and Charts 
 https://sites.google.com/view/aar-akanshagupta/home
